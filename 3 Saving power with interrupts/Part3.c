@@ -15,7 +15,7 @@
 #include <msp430.h>
 
 
-void runCodeWithSoftwarePolling();
+//void runCodeWithSoftwarePolling();
 void runCodeWithInterrupts();
 
 int main(){
